@@ -2,3 +2,4 @@
 console.log('Hello World\n');
 console.warn('Alô, alô Marcianoooooo...\n');
 console.info('Opa, tudo bem? Espero que sim!\n');
+console.error('Ops, algo deu errado!\n');
